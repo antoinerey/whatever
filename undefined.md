@@ -1,4 +1,0 @@
-# Whatever
-
-Hello world
-
